@@ -1,0 +1,5 @@
+*.csv
+!data/sample_dataset.csv
+venv/
+__pycache__/
+.DS_Store
